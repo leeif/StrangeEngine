@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/Scenes/Initiator/Main.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Initiator/GameManager.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Initiator/Terminal.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Initiator/Camera.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Level/Map_Level_1.unity
+  isLoaded: 1
+  isActive: 0
